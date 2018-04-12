@@ -1,0 +1,9 @@
+name: pyspharm
+
+channels:
+    - conda-forge
+
+dependencies:
+    - python=2
+    - numpy<=1.13
+    - pyspharm
